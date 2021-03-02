@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name":"RYAN CASTLES",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"I am a passionate learner who is always looking to grow my knowledge in all aspects of life.  My interest in software development started at an early age where I'd toy around with code, utilising multiple platforms to learn different languages.  I am a driven and passionate learner who is always looking to sharpen my skills in all aspects of software development.  This drive for success makes me a great asset for any company who seeks to employ me as they can be confident that I'll thrive to achieve any task at hand.",
+    "contactmessage":"Feel free to get in contact with me through either email, call or text!",
+    "email": "ryancastles33@gmail.com",
+    "phone": "0409407408",
+    "address":{
+      "street":"14 Ashton Vale Grove",
+      "city":"Horsley",
+      "state":"NSW",
+      "zip": "2530"
+    },
+    "resumedownload":"/images/resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100008593336658",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ryan-lachlan/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ryan.castles/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ryan-c44",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Wollongong",
+        "degree":"Bachelor of Computer Science (Software Engineering)",
+        "graduated":"2019-2021",
+        "description":"Distinction Average with a 77 WAM.",
+        "link":"/images/transcript.pdf"
+      }
+    ],
+    "work":[
+      {
+        "company":"Devika",
+        "title":"Work Experience",
+        "years":"2019",
+        "description":"Learnt about different software development approaches, involved in 'tech talks' and learnt more about React and how it is used to build amazing web and mobile applications."
+      },
+      {
+        "company":"Freelance Web Development",
+        "title":"Freelancer",
+        "years":"2016 - Present",
+        "description":"Involved in the development of multiple websites for different small businesses including a driving school and multiple restaurants and cafes using React and WordPress."
+      },
+      {
+        "company":"Udemy Courses",
+        "title":"Student",
+        "years":"2016 - Present",
+        "description":"Completed courses in React-Native, ReactJS and OOP languages such as Python and C++."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"50%"
+      },
+      {
+        "name":"Adobe XD",
+        "level":"50%"
+      }
+    ]
+  }
+}
+
+
