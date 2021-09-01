@@ -278,7 +278,7 @@ ul#nav li.current a { color: #11ABB0; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 24px , serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -297,23 +297,33 @@ ul#nav li.current a { color: #11ABB0; }
 /*----------------------------------------------*/
 
 .bars {
-	width: 95%;
+	width: 50%;
 	float: left;
 	padding: 0;
 	text-align: left;
+}
+.bars-right {
+	width: 50%;
+	float: right;
+	padding: 0;
+	text-align: right;
 }
 .bars .skills {
   	margin-top: 36px;
    list-style: none;
 }
-.bars li {
-   position: relative;
-  	margin-bottom: 60px;
-  	background: #ccc;
-  	height: 42px;
-  	border-radius: 3px;
-}
+
 .bars li em {
+	font: 15px 'opensans-bold', sans-serif;
+   color: #313131;
+	text-transform: uppercase;
+   letter-spacing: 2px;
+	font-weight: normal;
+   position: relative;
+	top: -36px;
+}
+
+.bars-right li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
 	text-transform: uppercase;
