@@ -121,6 +121,9 @@
       },
       {
         "name":"Microsoft SQL Server Management"
+      },
+      {
+        "name":"Jira Kanban"
       }
     ],
     "extracurricular":[
