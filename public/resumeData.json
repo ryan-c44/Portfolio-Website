@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"RYAN CASTLES",
-    "occupation":"(Your Occupation Here)",
+    "occupation":"Software Engineer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"I am a passionate learner who is always looking to expand my knowledge in all aspects of life.  My interest in software development started at an early age where I'd toy around with code, utilising multiple platforms to learn different languages.  I am a driven and passionate learner who is always looking to sharpen my skills in all aspects of software development.  This drive for success makes me a great asset for any company who seeks to employ me as they can be confident that I'll thrive to achieve any task at hand.",
+    "image":"profilepic.jpeg",
+    "bio":"Ryan is a talented Software Engineer gifted at translating basic customer requirements into technical development plans. He can communicate productively with both technical and non-technical personnel and clients. Ryan is approachable and friendly, with a drive and passion for programming.",
     "contactmessage":"Feel free to get in contact with me through either email, call or text!",
     "email": "ryancastles33@gmail.com",
     "phone": "0409407408",
@@ -50,28 +50,26 @@
     ],
     "work":[
       {
+        "company":"MedicalDirector",
+        "title":"Software Engineer",
+        "years":"2021 - Present",
+        "description": "Tech Stack: .NET/C#, HTML/CSS/JavaScript, jQuery, Angular, SQL/MSSQL, Azure. \n Worked on multiple MedicalDirector products and partner integration applications within in Agile environment."
+      },
+      {
         "company":"Catalyze Software",
         "title":"Software Developer",
-        "years":"2021 - Present",
-        "description":"Currently a software developer building a solution for a major smart metering service company, utilising a range of different services and technologies."
-      },
-      {
-        "company":"Devika",
-        "title":"Work Experience",
-        "years":"2019",
-        "description":"Learnt about different software development approaches, involved in 'tech talks' and learnt more about React and how it is used to build amazing web and mobile applications."
-      },
-      {
-        "company":"Udemy Courses",
-        "title":"Student",
-        "years":"2016 - Present",
-        "description":"Completed courses in React-Native, ReactJS and OOP languages such as Python and C++."
+        "years":"2020 - 2021",
+        "description":"Software developer building a solution for a major smart metering service company, utilising a range of different services and technologies."
       }
     ],
     "skills":[
       {
         "name":"JavaScript",
         "level":"75%"
+      },
+      {
+        "name":"C# | .NET ",
+        "level":"100%"
       },
       {
         "name":"ReactJS | TypeScript",
@@ -84,37 +82,11 @@
       {
         "name":"HTML5",
         "level":"100%"
-      },
-      {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"C++",
-        "level":"80%"
-      },
-      {
-        "name":"Java",
-        "level":"60%"
-      },
-      {
-        "name":"Photoshop",
-        "level":"50%"
-      },
-      {
-        "name":"Adobe XD",
-        "level":"50%"
-      },
-      {
-        "name":"C# | .NET | Blazor"
       }
     ],
     "technologies":[
       {
-        "name":"AWS"
-      },
-      {
-        "name":"GitHub"
+        "name":"Azure"
       },
       {
         "name":"Git"
@@ -123,13 +95,7 @@
         "name":"Microsoft SQL Server Management"
       },
       {
-        "name":"Jira Kanban"
-      }
-    ],
-    "extracurricular":[
-      {
-        "name":"Siligong.js / Siligong.dev",
-        "desc":"Attended a couple of the Siligong.js events held in Wollongong after being invited by a friend of mine in the industry."
+        "name":"Jira"
       }
     ]
   }

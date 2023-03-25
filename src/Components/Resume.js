@@ -22,12 +22,6 @@ class Resume extends Component {
       var technologies = this.props.data.technologies.map(function(technologies){
         
         return <li key={technologies.name}><em>{technologies.name}</em></li>
-      });
-      var extracurricular = this.props.data.extracurricular.map(function(extracurricular){
-        return <div key={extracurricular.name}><h3>{extracurricular.name}</h3>
-            
-            <p>{extracurricular.desc}</p>
-        </div>
       })
     }
 
@@ -85,16 +79,6 @@ class Resume extends Component {
             </div>
           </div>
 
-
-        </div>
-        <div className="row skill">
-
-        <div className="three columns header-col">
-            <h1><span>Extracurricular</span></h1>
-          </div>
-          <div className="nine columns main-col">
-            {extracurricular}
-          </div>
 
         </div>
       </section>
