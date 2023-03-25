@@ -9,10 +9,10 @@
     "email": "ryancastles33@gmail.com",
     "phone": "0409407408",
     "address":{
-      "street":"14 Ashton Vale Grove",
-      "city":"Horsley",
-      "state":"NSW",
-      "zip": "2530"
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
     },
     "resumedownload":"/images/resume.pdf",
     "social":[
