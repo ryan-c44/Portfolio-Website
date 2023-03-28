@@ -9,10 +9,9 @@
     "email": "ryancastles33@gmail.com",
     "phone": "0409407408",
     "address":{
-      "street":"",
-      "city":"",
-      "state":"",
-      "zip": ""
+      "city":"Wollongong",
+      "state":"NSW",
+      "zip": "2500"
     },
     "resumedownload":"/images/resume.pdf",
     "social":[
